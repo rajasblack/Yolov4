@@ -1,0 +1,17 @@
+.\dataset\7.png 243,25,268,29,0
+.\dataset\8.png 418,23,333,44,0
+.\dataset\10.png 648,32,288,49,0
+.\dataset\11.png 549,40,457,36,0
+.\dataset\11.png 372,71,268,31,0
+.\dataset\19.png 272,73,372,42,0
+.\dataset\22.png 151,102,458,68,0
+.\dataset\27.png 295,25,194,25,0
+.\dataset\27.png 424,22,211,50,0
+.\dataset\28.png 164,37,294,30,0
+.\dataset\29.png 405,33,332,36,0
+.\dataset\32.png 306,41,319,43,0
+.\dataset\32.png 221,30,317,36,0
+.\dataset\33.png 378,30,207,45,0
+.\dataset\34.png 259,36,145,39,0
+.\dataset\35.png 408,57,152,35,0
+.\dataset\35.png 247,43,164,31,0
